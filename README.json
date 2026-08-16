@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T15:51:41Z",
+            "last_commit": "2026-08-16T15:11:36Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38075
+            "stars": 38077
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-04T12:41:14Z",
             "owner": "moby",
             "repo": "swarmkit",
-            "stars": 3644
+            "stars": 3645
           }
         }
       ],
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T09:12:18Z",
+            "last_commit": "2026-08-16T16:28:45Z",
             "owner": "kimdre",
             "repo": "doco-cd",
-            "stars": 1615
+            "stars": 1616
           }
         },
         {
@@ -342,10 +342,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:47:38Z",
+            "last_commit": "2026-08-16T04:02:41Z",
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 14323
+            "stars": 14324
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-08-14T10:55:41Z",
             "owner": "ceph",
             "repo": "ceph-csi",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-08-13T12:24:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64440
+            "stars": 64456
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-15T19:45:19Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46101
+            "stars": 46109
           }
         },
         {
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:42:16.485Z",
+    "last_updated": "2026-08-16T22:41:42.297Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_sha": "fe264971bc576d281e795014a6b7b88bd13a2afd",
     "enhanced_repository": "enhansome/enhansome-swarm",
