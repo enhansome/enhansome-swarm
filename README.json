@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T20:17:16Z",
+            "last_commit": "2026-08-18T17:25:45Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38036
+            "stars": 38046
           }
         },
         {
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T20:29:35Z",
+            "last_commit": "2026-08-18T20:38:57Z",
             "owner": "heckenmann",
             "repo": "docker-swarm-dashboard",
             "stars": 50
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T21:44:07Z",
+            "last_commit": "2026-08-18T22:41:51Z",
             "owner": "kimdre",
             "repo": "doco-cd",
-            "stars": 1620
+            "stars": 1621
           }
         },
         {
@@ -342,10 +342,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:01:14Z",
+            "last_commit": "2026-08-18T11:08:51Z",
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 14329
+            "stars": 14334
           }
         },
         {
@@ -356,7 +356,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T20:55:01Z",
+            "last_commit": "2026-08-18T15:51:09Z",
             "owner": "ceph",
             "repo": "ceph-csi",
             "stars": 1567
@@ -370,7 +370,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T00:57:22Z",
+            "last_commit": "2026-08-18T05:41:24Z",
             "owner": "NetApp",
             "repo": "trident",
             "stars": 872
@@ -384,7 +384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:06:10Z",
+            "last_commit": "2026-08-18T16:54:51Z",
             "owner": "hetznercloud",
             "repo": "csi-driver",
             "stars": 794
@@ -446,10 +446,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:08:06Z",
+            "last_commit": "2026-08-18T15:12:24Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64466
+            "stars": 64485
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2023-10-20T21:31:26Z",
             "owner": "moby",
             "repo": "libnetwork",
-            "stars": 2207
+            "stars": 2206
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-15T19:45:19Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46115
+            "stars": 46119
           }
         },
         {
@@ -637,10 +637,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-29T22:24:33Z",
+            "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36658
+            "stars": 36663
           }
         }
       ],
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:45:14.628Z",
+    "last_updated": "2026-08-18T22:45:12.305Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_sha": "fe264971bc576d281e795014a6b7b88bd13a2afd",
     "enhanced_repository": "enhansome/enhansome-swarm",
