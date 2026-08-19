@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-18T17:25:45Z",
+            "last_commit": "2026-08-19T12:47:09Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38046
+            "stars": 38048
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51556828,
             "language": "Go",
             "last_commit": "2026-08-04T12:41:14Z",
             "owner": "moby",
@@ -35,582 +37,628 @@
       "title": "Official Main Resources"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dockersamples Swarm Visualizer",
+              "description": "A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61750042,
+                "language": "JavaScript",
+                "last_commit": "2024-10-26T07:12:05Z",
+                "owner": "dockersamples",
+                "repo": "docker-swarm-visualizer",
+                "stars": 3339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swirl",
+              "description": "Web UI for Docker, focused on swarm cluster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104724945,
+                "language": "Go",
+                "last_commit": "2023-05-16T02:47:48Z",
+                "owner": "cuigh",
+                "repo": "swirl",
+                "stars": 666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mohsenasm Swarm Dashboard",
+              "description": "A Simple Monitoring Dashboard for Docker Swarm Cluster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90306979,
+                "language": "Elm",
+                "last_commit": "2026-06-05T10:06:57Z",
+                "owner": "mohsenasm",
+                "repo": "swarm-dashboard",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarmsible",
+              "description": "Tooling to create and manage Docker Swarm clusters based on Ansible.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493344734,
+                "language": "Shell",
+                "last_commit": "2025-02-19T21:27:00Z",
+                "owner": "neuroforgede",
+                "repo": "swarmsible",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swarmgate",
+              "description": "Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717610774,
+                "language": "TypeScript",
+                "last_commit": "2025-02-19T16:34:22Z",
+                "owner": "neuroforgede",
+                "repo": "swarmgate",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Heckenmann Swarm Dashboard",
+              "description": "A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123803337,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T20:38:57Z",
+                "owner": "heckenmann",
+                "repo": "docker-swarm-dashboard",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Docker Swarm Terraform Module",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139270418,
+                "language": "HCL",
+                "last_commit": "2025-10-23T01:08:27Z",
+                "owner": "trajano",
+                "repo": "terraform-docker-swarm-aws",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoDB ReplicaSet Manager",
+              "description": "Automated deployment and management of MongoDB replica sets in Docker Swarm with intelligent failover and dynamic scaling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 726693807,
+                "language": "Python",
+                "last_commit": "2026-04-27T18:20:45Z",
+                "owner": "BitWise-0x",
+                "repo": "MongoDB-ReplicaSet-Manager",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cluster Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "doco-cd",
+              "description": "Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830615327,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:11:30Z",
+                "owner": "kimdre",
+                "repo": "doco-cd",
+                "stars": 1622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarm Cronjob",
+              "description": "By @crazy-max. Create jobs on a time-based schedule.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161695758,
+                "language": "Go",
+                "last_commit": "2026-08-17T10:14:10Z",
+                "owner": "crazy-max",
+                "repo": "swarm-cronjob",
+                "stars": 881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shepherd",
+              "description": "Automatically update services whenever their image is refreshed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91006256,
+                "language": "Shell",
+                "last_commit": "2025-11-11T10:19:27Z",
+                "owner": "containrrr",
+                "repo": "shepherd",
+                "stars": 592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwarmCD",
+              "description": "Declarative GitOps and Continuous Deployment tool for Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826441970,
+                "language": "Go",
+                "last_commit": "2026-05-20T16:51:51Z",
+                "owner": "m-adawi",
+                "repo": "swarm-cd",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-stack-wait",
+              "description": "Tool to wait for your docker stack deployments to finish.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 151856470,
+                "language": "Shell",
+                "last_commit": "2025-03-11T14:45:16Z",
+                "owner": "sudo-bmitch",
+                "repo": "docker-stack-wait",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarm Sync",
+              "description": "GitOps for Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164573658,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T03:51:28Z",
+                "owner": "swarm-pack",
+                "repo": "swarm-sync",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gantry",
+              "description": "a tool to update docker swarm services, enhanced Shepherd.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653814037,
+                "language": "Shell",
+                "last_commit": "2026-08-13T05:41:03Z",
+                "owner": "shizunge",
+                "repo": "gantry",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-stack-deploy (docker-sdp)",
+              "description": "Automatic config/secret rotation for Docker stacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496370955,
+                "language": "Python",
+                "last_commit": "2024-06-18T11:57:37Z",
+                "owner": "neuroforgede",
+                "repo": "docker-stack-deploy",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-swarm-proxy",
+              "description": "CLI plugin to that allows to exec into services. for Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654312873,
+                "language": "Python",
+                "last_commit": "2023-07-12T17:55:00Z",
+                "owner": "neuroforgede",
+                "repo": "docker-swarm-proxy",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nothelm.py",
+              "description": "Opinionated docker stack project tool with templating support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582651995,
+                "language": "Python",
+                "last_commit": "2024-07-16T20:11:30Z",
+                "owner": "neuroforgede",
+                "repo": "nothelm.py",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarm pilot",
+              "description": "Scale Serices up/down by CPU & Memory Usage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971314125,
+                "language": "TypeScript",
+                "last_commit": "2026-02-11T14:34:37Z",
+                "owner": "Integral-Systems",
+                "repo": "swarm-pilot",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarmhook",
+              "description": "A simple to use service that redeploys Swarm services using webhooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652658577,
+                "language": "TypeScript",
+                "last_commit": "2025-09-03T13:24:38Z",
+                "owner": "M4TY",
+                "repo": "swarmhook",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extra Functionality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "juicefs",
+              "description": "JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained Docker plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327859577,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:15:46Z",
+                "owner": "juicedata",
+                "repo": "juicefs",
+                "stars": 14338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ceph",
+              "description": "Ceph is a distributed object, block, and file storage platform. Do you want Ceph CSI support? Upvote this issue",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116693072,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:22:55Z",
+                "owner": "ceph",
+                "repo": "ceph-csi",
+                "stars": 1568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetApp Trident",
+              "description": "A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support has been requested.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77179634,
+                "language": "Go",
+                "last_commit": "2026-08-18T05:41:24Z",
+                "owner": "NetApp",
+                "repo": "trident",
+                "stars": 873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hetzner Cloud Volume CSI Driver",
+              "description": "Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162441106,
+                "language": "Go",
+                "last_commit": "2026-08-19T05:35:48Z",
+                "owner": "hetznercloud",
+                "repo": "csi-driver",
+                "stars": 794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hetzner Cloud Docker Volume Plugin",
+              "description": "Unofficial volume driver for Hetzner Cloud by @costela.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154749904,
+                "language": "Go",
+                "last_commit": "2026-08-17T04:04:11Z",
+                "owner": "costela",
+                "repo": "docker-volume-hetzner",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker Volume plugin for RBD (Ceph)",
+              "description": "Docker Engine managed plugin to for RBD Ceph volumes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83198726,
+                "language": "Go",
+                "last_commit": "2024-02-28T17:08:38Z",
+                "owner": "wetopi",
+                "repo": "docker-volume-rbd",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSI support issue tracking in 2023",
+              "description": "A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596807714,
+                "language": "Shell",
+                "last_commit": "2025-04-01T12:46:58Z",
+                "owner": "olljanat",
+                "repo": "csi-plugins-for-docker-swarm",
+                "stars": 81
+              }
+            }
+          ],
+          "description": "Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with the Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.",
+          "node_type": "group",
+          "title": "Volumes and Storage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Traefik Proxy",
+              "description": "A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs start here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42408804,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:34:22Z",
+                "owner": "traefik",
+                "repo": "traefik",
+                "stars": 64494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Caddy Docker Proxy",
+              "description": "Caddy based reverse proxy with automatic service discovery based on labels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94173282,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:42:44Z",
+                "owner": "lucaslorentz",
+                "repo": "caddy-docker-proxy",
+                "stars": 4620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libnetwork Troubleshooting",
+              "description": "Official Doc on using network diagnostic tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31046054,
+                "language": "Go",
+                "last_commit": "2023-10-20T21:31:26Z",
+                "owner": "moby",
+                "repo": "libnetwork",
+                "stars": 2206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rawdns",
+              "description": "a direct, raw DNS interface to the Docker API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24373874,
+                "language": "Go",
+                "last_commit": "2026-06-06T05:37:23Z",
+                "owner": "tianon",
+                "repo": "rawdns",
+                "stars": 214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "envoy-swarm-control-plane",
+              "description": "Software that helps Envoy route internet traffic towards your microservices running on Docker Swarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271975261,
+                "language": "Go",
+                "last_commit": "2026-07-27T10:15:35Z",
+                "owner": "nstapelbroek",
+                "repo": "envoy-swarm-control-plane",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "promswarm",
+              "description": "Modernized version of Swarmprom, a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602490593,
+                "language": "Jinja",
+                "last_commit": "2024-04-06T12:31:19Z",
+                "owner": "neuroforgede",
+                "repo": "promswarm",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-engine-events-exporter",
+              "description": "Prometheus Exporter for Docker Engine Events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537752896,
+                "language": "Python",
+                "last_commit": "2026-06-20T10:29:53Z",
+                "owner": "neuroforgede",
+                "repo": "docker-engine-events-exporter",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-engine-networks-exporter",
+              "description": "Prometheus Exporter for additional network metrics such as usable ips.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569909225,
+                "language": "Python",
+                "last_commit": "2026-05-17T11:53:41Z",
+                "owner": "neuroforgede",
+                "repo": "docker-engine-networks-exporter",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        }
+      ],
       "title": "Community Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Dockersamples Swarm Visualizer",
-          "description": "A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-26T07:12:05Z",
-            "owner": "dockersamples",
-            "repo": "docker-swarm-visualizer",
-            "stars": 3339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swirl",
-          "description": "Web UI for Docker, focused on swarm cluster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-05-16T02:47:48Z",
-            "owner": "cuigh",
-            "repo": "swirl",
-            "stars": 666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mohsenasm Swarm Dashboard",
-          "description": "A Simple Monitoring Dashboard for Docker Swarm Cluster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2026-06-05T10:06:57Z",
-            "owner": "mohsenasm",
-            "repo": "swarm-dashboard",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarmsible",
-          "description": "Tooling to create and manage Docker Swarm clusters based on Ansible.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-02-19T21:27:00Z",
-            "owner": "neuroforgede",
-            "repo": "swarmsible",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swarmgate",
-          "description": "Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-19T16:34:22Z",
-            "owner": "neuroforgede",
-            "repo": "swarmgate",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heckenmann Swarm Dashboard",
-          "description": "A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T20:38:57Z",
-            "owner": "heckenmann",
-            "repo": "docker-swarm-dashboard",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Docker Swarm Terraform Module",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dogvs.cat Sample Swarm Stacks",
+              "description": "Sample Docker Swarm cluster stack of tools including Traefik.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133014720,
+                "language": "HCL",
+                "last_commit": "2023-01-07T20:07:08Z",
+                "owner": "BretFisher",
+                "repo": "dogvscat",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swarm vs. Compose for Production",
+              "description": "Only one host for a production environment. What to use: docker-compose or single node swarm?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99232177,
+                "language": null,
+                "last_commit": "2021-08-23T17:37:34Z",
+                "owner": "BretFisher",
+                "repo": "ama",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Podlike",
+              "description": "Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130613123,
+                "language": "Go",
+                "last_commit": "2023-05-11T20:38:35Z",
+                "owner": "rycus86",
+                "repo": "podlike",
+                "stars": 87
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2025-10-23T01:08:27Z",
-            "owner": "trajano",
-            "repo": "terraform-docker-swarm-aws",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoDB ReplicaSet Manager",
-          "description": "Automated deployment and management of MongoDB replica sets in Docker Swarm with intelligent failover and dynamic scaling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-27T18:20:45Z",
-            "owner": "BitWise-0x",
-            "repo": "MongoDB-ReplicaSet-Manager",
-            "stars": 14
-          }
+          "node_type": "group",
+          "title": "Articles and Sample Code"
         }
       ],
-      "title": "Cluster Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "doco-cd",
-          "description": "Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T22:41:51Z",
-            "owner": "kimdre",
-            "repo": "doco-cd",
-            "stars": 1621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarm Cronjob",
-          "description": "By @crazy-max. Create jobs on a time-based schedule.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T10:14:10Z",
-            "owner": "crazy-max",
-            "repo": "swarm-cronjob",
-            "stars": 881
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shepherd",
-          "description": "Automatically update services whenever their image is refreshed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-11-11T10:19:27Z",
-            "owner": "containrrr",
-            "repo": "shepherd",
-            "stars": 592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwarmCD",
-          "description": "Declarative GitOps and Continuous Deployment tool for Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-20T16:51:51Z",
-            "owner": "m-adawi",
-            "repo": "swarm-cd",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-stack-wait",
-          "description": "Tool to wait for your docker stack deployments to finish.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2025-03-11T14:45:16Z",
-            "owner": "sudo-bmitch",
-            "repo": "docker-stack-wait",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarm Sync",
-          "description": "GitOps for Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-07T03:51:28Z",
-            "owner": "swarm-pack",
-            "repo": "swarm-sync",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gantry",
-          "description": "a tool to update docker swarm services, enhanced Shepherd.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-13T05:41:03Z",
-            "owner": "shizunge",
-            "repo": "gantry",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-stack-deploy (docker-sdp)",
-          "description": "Automatic config/secret rotation for Docker stacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-18T11:57:37Z",
-            "owner": "neuroforgede",
-            "repo": "docker-stack-deploy",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-swarm-proxy",
-          "description": "CLI plugin to that allows to exec into services. for Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-12T17:55:00Z",
-            "owner": "neuroforgede",
-            "repo": "docker-swarm-proxy",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nothelm.py",
-          "description": "Opinionated docker stack project tool with templating support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-16T20:11:30Z",
-            "owner": "neuroforgede",
-            "repo": "nothelm.py",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarm pilot",
-          "description": "Scale Serices up/down by CPU & Memory Usage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-11T14:34:37Z",
-            "owner": "Integral-Systems",
-            "repo": "swarm-pilot",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarmhook",
-          "description": "A simple to use service that redeploys Swarm services using webhooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-03T13:24:38Z",
-            "owner": "M4TY",
-            "repo": "swarmhook",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Extra Functionality"
-    },
-    {
-      "description": "Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with the Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "juicefs",
-          "description": "JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained Docker plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:08:51Z",
-            "owner": "juicedata",
-            "repo": "juicefs",
-            "stars": 14334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ceph",
-          "description": "Ceph is a distributed object, block, and file storage platform. Do you want Ceph CSI support? Upvote this issue",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:51:09Z",
-            "owner": "ceph",
-            "repo": "ceph-csi",
-            "stars": 1567
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NetApp Trident",
-          "description": "A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support has been requested.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T05:41:24Z",
-            "owner": "NetApp",
-            "repo": "trident",
-            "stars": 872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hetzner Cloud Volume CSI Driver",
-          "description": "Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T16:54:51Z",
-            "owner": "hetznercloud",
-            "repo": "csi-driver",
-            "stars": 794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hetzner Cloud Docker Volume Plugin",
-          "description": "Unofficial volume driver for Hetzner Cloud by @costela.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T04:04:11Z",
-            "owner": "costela",
-            "repo": "docker-volume-hetzner",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docker Volume plugin for RBD (Ceph)",
-          "description": "Docker Engine managed plugin to for RBD Ceph volumes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-02-28T17:08:38Z",
-            "owner": "wetopi",
-            "repo": "docker-volume-rbd",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSI support issue tracking in 2023",
-          "description": "A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-04-01T12:46:58Z",
-            "owner": "olljanat",
-            "repo": "csi-plugins-for-docker-swarm",
-            "stars": 81
-          }
-        }
-      ],
-      "title": "Volumes and Storage"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Traefik Proxy",
-          "description": "A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs start here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:12:24Z",
-            "owner": "traefik",
-            "repo": "traefik",
-            "stars": 64485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caddy Docker Proxy",
-          "description": "Caddy based reverse proxy with automatic service discovery based on labels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:42:44Z",
-            "owner": "lucaslorentz",
-            "repo": "caddy-docker-proxy",
-            "stars": 4620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Libnetwork Troubleshooting",
-          "description": "Official Doc on using network diagnostic tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-10-20T21:31:26Z",
-            "owner": "moby",
-            "repo": "libnetwork",
-            "stars": 2206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rawdns",
-          "description": "a direct, raw DNS interface to the Docker API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-06T05:37:23Z",
-            "owner": "tianon",
-            "repo": "rawdns",
-            "stars": 214
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "envoy-swarm-control-plane",
-          "description": "Software that helps Envoy route internet traffic towards your microservices running on Docker Swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-27T10:15:35Z",
-            "owner": "nstapelbroek",
-            "repo": "envoy-swarm-control-plane",
-            "stars": 39
-          }
-        }
-      ],
-      "title": "Networking"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "promswarm",
-          "description": "Modernized version of Swarmprom, a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jinja",
-            "last_commit": "2024-04-06T12:31:19Z",
-            "owner": "neuroforgede",
-            "repo": "promswarm",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-engine-events-exporter",
-          "description": "Prometheus Exporter for Docker Engine Events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-20T10:29:53Z",
-            "owner": "neuroforgede",
-            "repo": "docker-engine-events-exporter",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-engine-networks-exporter",
-          "description": "Prometheus Exporter for additional network metrics such as usable ips.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-17T11:53:41Z",
-            "owner": "neuroforgede",
-            "repo": "docker-engine-networks-exporter",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Community Tutorials and Education"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dogvs.cat Sample Swarm Stacks",
-          "description": "Sample Docker Swarm cluster stack of tools including Traefik.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2023-01-07T20:07:08Z",
-            "owner": "BretFisher",
-            "repo": "dogvscat",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swarm vs. Compose for Production",
-          "description": "Only one host for a production environment. What to use: docker-compose or single node swarm?",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-08-23T17:37:34Z",
-            "owner": "BretFisher",
-            "repo": "ama",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Podlike",
-          "description": "Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-05-11T20:38:35Z",
-            "owner": "rycus86",
-            "repo": "podlike",
-            "stars": 87
-          }
-        }
-      ],
-      "title": "Articles and Sample Code"
     },
     {
       "description": "While this list is focused on Docker Swarm resources, general resources such as ones for Docker or Docker Compose can be helpful. The following keeps track of related awesome lists focused on this.",
@@ -622,11 +670,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240215314,
             "language": "HTML",
             "last_commit": "2026-08-15T19:45:19Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46119
+            "stars": 46117
           }
         },
         {
@@ -636,30 +685,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24297122,
             "language": null,
             "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36663
+            "stars": 36668
           }
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "This list thrives on contributions from the community. The Maintainers can't do it alone. We need Swarm fans to help us find the best Swarm resources.\nWant to contribute? Please read the contribution guidelines. You can also ask questions in the GitHub Discussions, or our Discord Server #swarm channel.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "We're looking for more maintainers. Make some PRs to help, then LMK in Discussions, Twitter, or Discord (above) if you'd like to get involved in making a better community for Swarm.",
-      "items": [],
-      "title": "Maintainers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:45:12.305Z",
+    "last_updated": "2026-08-19T12:53:09.587Z",
     "original_repository": "BretFisher/awesome-swarm",
+    "original_repository_id": 602344007,
     "original_repository_sha": "fe264971bc576d281e795014a6b7b88bd13a2afd",
     "enhanced_repository": "enhansome/enhansome-swarm",
     "enhanced_repository_description": null,
