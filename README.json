@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-19T12:47:09Z",
+            "last_commit": "2026-08-19T16:10:01Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38048
+            "stars": 38047
           }
         },
         {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 123803337,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T20:38:57Z",
+                "last_commit": "2026-08-19T20:30:08Z",
                 "owner": "heckenmann",
                 "repo": "docker-swarm-dashboard",
                 "stars": 50
@@ -144,6 +144,21 @@
                 "owner": "trajano",
                 "repo": "terraform-docker-swarm-aws",
                 "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swarmcli",
+              "description": "Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976664437,
+                "language": "Go",
+                "last_commit": "2026-08-19T21:33:57Z",
+                "owner": "Eldara-Tech",
+                "repo": "swarmcli",
+                "stars": 19
               }
             },
             {
@@ -180,7 +195,7 @@
                 "last_commit": "2026-08-19T06:11:30Z",
                 "owner": "kimdre",
                 "repo": "doco-cd",
-                "stars": 1622
+                "stars": 1624
               }
             },
             {
@@ -364,10 +379,10 @@
                 "archived": false,
                 "id": 327859577,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:15:46Z",
+                "last_commit": "2026-08-19T22:39:09Z",
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14338
+                "stars": 14342
               }
             },
             {
@@ -394,7 +409,7 @@
                 "archived": false,
                 "id": 77179634,
                 "language": "Go",
-                "last_commit": "2026-08-18T05:41:24Z",
+                "last_commit": "2026-08-19T20:51:46Z",
                 "owner": "NetApp",
                 "repo": "trident",
                 "stars": 873
@@ -479,7 +494,7 @@
                 "last_commit": "2026-08-19T06:34:22Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64494
+                "stars": 64498
               }
             },
             {
@@ -494,7 +509,7 @@
                 "last_commit": "2026-08-17T20:42:44Z",
                 "owner": "lucaslorentz",
                 "repo": "caddy-docker-proxy",
-                "stars": 4620
+                "stars": 4621
               }
             },
             {
@@ -675,7 +690,7 @@
             "last_commit": "2026-08-15T19:45:19Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46117
+            "stars": 46120
           }
         },
         {
@@ -687,10 +702,10 @@
             "archived": false,
             "id": 24297122,
             "language": null,
-            "last_commit": "2026-08-18T20:54:04Z",
+            "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36668
+            "stars": 36669
           }
         }
       ],
@@ -698,10 +713,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:09.587Z",
+    "last_updated": "2026-08-19T22:46:05.978Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_id": 602344007,
-    "original_repository_sha": "fe264971bc576d281e795014a6b7b88bd13a2afd",
+    "original_repository_sha": "dbb09c11c29f8a3361e4bce48ede7e1ec2189fe1",
     "enhanced_repository": "enhansome/enhansome-swarm",
     "enhanced_repository_description": null,
     "title": "Awesome Swarm with stars"
