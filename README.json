@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-19T16:10:01Z",
+            "last_commit": "2026-08-20T17:15:19Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38047
+            "stars": 38049
           }
         },
         {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 976664437,
                 "language": "Go",
-                "last_commit": "2026-08-19T21:33:57Z",
+                "last_commit": "2026-08-20T21:44:29Z",
                 "owner": "Eldara-Tech",
                 "repo": "swarmcli",
                 "stars": 19
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 830615327,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:11:30Z",
+                "last_commit": "2026-08-20T18:52:32Z",
                 "owner": "kimdre",
                 "repo": "doco-cd",
-                "stars": 1624
+                "stars": 1626
               }
             },
             {
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 161695758,
                 "language": "Go",
-                "last_commit": "2026-08-17T10:14:10Z",
+                "last_commit": "2026-08-20T10:12:30Z",
                 "owner": "crazy-max",
                 "repo": "swarm-cronjob",
-                "stars": 881
+                "stars": 882
               }
             },
             {
@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 653814037,
                 "language": "Shell",
-                "last_commit": "2026-08-13T05:41:03Z",
+                "last_commit": "2026-08-20T15:08:59Z",
                 "owner": "shizunge",
                 "repo": "gantry",
                 "stars": 90
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 327859577,
                 "language": "Go",
-                "last_commit": "2026-08-19T22:39:09Z",
+                "last_commit": "2026-08-20T12:58:01Z",
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14342
+                "stars": 14346
               }
             },
             {
@@ -394,7 +394,7 @@
                 "archived": false,
                 "id": 116693072,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:22:55Z",
+                "last_commit": "2026-08-20T09:10:03Z",
                 "owner": "ceph",
                 "repo": "ceph-csi",
                 "stars": 1568
@@ -424,7 +424,7 @@
                 "archived": false,
                 "id": 162441106,
                 "language": "Go",
-                "last_commit": "2026-08-19T05:35:48Z",
+                "last_commit": "2026-08-20T18:11:28Z",
                 "owner": "hetznercloud",
                 "repo": "csi-driver",
                 "stars": 794
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 42408804,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:34:22Z",
+                "last_commit": "2026-08-20T15:04:09Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64498
+                "stars": 64521
               }
             },
             {
@@ -506,10 +506,10 @@
                 "archived": false,
                 "id": 94173282,
                 "language": "Go",
-                "last_commit": "2026-08-17T20:42:44Z",
+                "last_commit": "2026-08-20T20:43:16Z",
                 "owner": "lucaslorentz",
                 "repo": "caddy-docker-proxy",
-                "stars": 4621
+                "stars": 4622
               }
             },
             {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-15T19:45:19Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46120
+            "stars": 46134
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36669
+            "stars": 36674
           }
         }
       ],
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:46:05.978Z",
+    "last_updated": "2026-08-20T22:49:26.489Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_id": 602344007,
     "original_repository_sha": "dbb09c11c29f8a3361e4bce48ede7e1ec2189fe1",
