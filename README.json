@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-24T12:48:23Z",
+            "last_commit": "2026-08-25T18:53:46Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38056
+            "stars": 38062
           }
         },
         {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 976664437,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:52:35Z",
+                "last_commit": "2026-08-25T12:25:31Z",
                 "owner": "Eldara-Tech",
                 "repo": "swarmcli",
                 "stars": 19
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 830615327,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:52:49Z",
+                "last_commit": "2026-08-25T20:44:55Z",
                 "owner": "kimdre",
                 "repo": "doco-cd",
-                "stars": 1637
+                "stars": 1638
               }
             },
             {
@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 653814037,
                 "language": "Shell",
-                "last_commit": "2026-08-24T20:43:01Z",
+                "last_commit": "2026-08-25T16:39:41Z",
                 "owner": "shizunge",
                 "repo": "gantry",
                 "stars": 90
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 327859577,
                 "language": "Go",
-                "last_commit": "2026-08-25T03:34:27Z",
+                "last_commit": "2026-08-25T19:15:59Z",
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14354
+                "stars": 14356
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-21T09:01:43Z",
                 "owner": "NetApp",
                 "repo": "trident",
-                "stars": 875
+                "stars": 876
               }
             },
             {
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 162441106,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:45:28Z",
+                "last_commit": "2026-08-25T18:04:41Z",
                 "owner": "hetznercloud",
                 "repo": "csi-driver",
-                "stars": 795
+                "stars": 794
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 42408804,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:28:06Z",
+                "last_commit": "2026-08-25T15:30:06Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64573
+                "stars": 64588
               }
             },
             {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-25T01:56:23Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46167
+            "stars": 46164
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36707
+            "stars": 36712
           }
         }
       ],
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:34.124Z",
+    "last_updated": "2026-08-25T22:49:42.499Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_id": 602344007,
     "original_repository_sha": "dbb09c11c29f8a3361e4bce48ede7e1ec2189fe1",
