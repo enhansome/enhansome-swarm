@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T12:48:23Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38053
+            "stars": 38056
           }
         },
         {
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 830615327,
                 "language": "Go",
-                "last_commit": "2026-08-24T18:55:58Z",
+                "last_commit": "2026-08-25T05:52:49Z",
                 "owner": "kimdre",
                 "repo": "doco-cd",
-                "stars": 1635
+                "stars": 1637
               }
             },
             {
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 327859577,
                 "language": "Go",
-                "last_commit": "2026-08-24T17:29:22Z",
+                "last_commit": "2026-08-25T03:34:27Z",
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14353
+                "stars": 14354
               }
             },
             {
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-24T16:28:06Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64565
+                "stars": 64573
               }
             },
             {
@@ -687,10 +687,10 @@
             "archived": false,
             "id": 240215314,
             "language": "HTML",
-            "last_commit": "2026-08-15T19:45:19Z",
+            "last_commit": "2026-08-25T01:56:23Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46164
+            "stars": 46167
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36703
+            "stars": 36707
           }
         }
       ],
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:17.530Z",
+    "last_updated": "2026-08-25T06:15:34.124Z",
     "original_repository": "BretFisher/awesome-swarm",
     "original_repository_id": 602344007,
     "original_repository_sha": "dbb09c11c29f8a3361e4bce48ede7e1ec2189fe1",
