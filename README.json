@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T10:14:55Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38065
-          }
+            "stars": 38066
+          },
+          "first_seen": "2026-08-28T06:10:57.792Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "moby",
             "repo": "swarmkit",
             "stars": 3647
-          }
+          },
+          "first_seen": "2026-08-28T06:10:57.792Z"
         }
       ],
       "title": "Official Main Resources"
@@ -54,7 +56,8 @@
                 "owner": "dockersamples",
                 "repo": "docker-swarm-visualizer",
                 "stars": 3338
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "cuigh",
                 "repo": "swirl",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "mohsenasm",
                 "repo": "swarm-dashboard",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "neuroforgede",
                 "repo": "swarmsible",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "neuroforgede",
                 "repo": "swarmgate",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 123803337,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:30:37Z",
+                "last_commit": "2026-08-27T20:48:57Z",
                 "owner": "heckenmann",
                 "repo": "docker-swarm-dashboard",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "trajano",
                 "repo": "terraform-docker-swarm-aws",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "Eldara-Tech",
                 "repo": "swarmcli",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "BitWise-0x",
                 "repo": "MongoDB-ReplicaSet-Manager",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": null,
@@ -192,11 +203,12 @@
                 "archived": false,
                 "id": 830615327,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:27:41Z",
+                "last_commit": "2026-08-28T06:00:06Z",
                 "owner": "kimdre",
                 "repo": "doco-cd",
                 "stars": 1641
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "crazy-max",
                 "repo": "swarm-cronjob",
                 "stars": 882
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "containrrr",
                 "repo": "shepherd",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "m-adawi",
                 "repo": "swarm-cd",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "sudo-bmitch",
                 "repo": "docker-stack-wait",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "swarm-pack",
                 "repo": "swarm-sync",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "shizunge",
                 "repo": "gantry",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "neuroforgede",
                 "repo": "docker-stack-deploy",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "neuroforgede",
                 "repo": "docker-swarm-proxy",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "neuroforgede",
                 "repo": "nothelm.py",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "Integral-Systems",
                 "repo": "swarm-pilot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "M4TY",
                 "repo": "swarmhook",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": null,
@@ -379,11 +402,12 @@
                 "archived": false,
                 "id": 327859577,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:01:00Z",
+                "last_commit": "2026-08-28T05:27:12Z",
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14363
-              }
+                "stars": 14365
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -394,11 +418,12 @@
                 "archived": false,
                 "id": 116693072,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:05:42Z",
+                "last_commit": "2026-08-27T15:36:38Z",
                 "owner": "ceph",
                 "repo": "ceph-csi",
                 "stars": 1568
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -409,11 +434,12 @@
                 "archived": false,
                 "id": 77179634,
                 "language": "Go",
-                "last_commit": "2026-08-21T09:01:43Z",
+                "last_commit": "2026-08-27T19:44:12Z",
                 "owner": "NetApp",
                 "repo": "trident",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "hetznercloud",
                 "repo": "csi-driver",
                 "stars": 795
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "costela",
                 "repo": "docker-volume-hetzner",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "wetopi",
                 "repo": "docker-volume-rbd",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "olljanat",
                 "repo": "csi-plugins-for-docker-swarm",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": "Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with the Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.",
@@ -491,11 +521,12 @@
                 "archived": false,
                 "id": 42408804,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:29:23Z",
+                "last_commit": "2026-08-27T14:52:06Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64614
-              }
+                "stars": 64623
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "lucaslorentz",
                 "repo": "caddy-docker-proxy",
                 "stars": 4629
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "moby",
                 "repo": "libnetwork",
                 "stars": 2206
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "tianon",
                 "repo": "rawdns",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "nstapelbroek",
                 "repo": "envoy-swarm-control-plane",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": null,
@@ -577,7 +612,8 @@
                 "owner": "neuroforgede",
                 "repo": "promswarm",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "neuroforgede",
                 "repo": "docker-engine-events-exporter",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "neuroforgede",
                 "repo": "docker-engine-networks-exporter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": null,
@@ -635,7 +673,8 @@
                 "owner": "BretFisher",
                 "repo": "dogvscat",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -650,7 +689,8 @@
                 "owner": "BretFisher",
                 "repo": "ama",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             },
             {
               "node_type": "item",
@@ -665,7 +705,8 @@
                 "owner": "rycus86",
                 "repo": "podlike",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T06:10:57.792Z"
             }
           ],
           "description": null,
@@ -690,8 +731,9 @@
             "last_commit": "2026-08-25T01:56:23Z",
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46175
-          }
+            "stars": 46183
+          },
+          "first_seen": "2026-08-28T06:10:57.792Z"
         },
         {
           "node_type": "item",
@@ -702,18 +744,19 @@
             "archived": false,
             "id": 24297122,
             "language": null,
-            "last_commit": "2026-08-19T15:33:40Z",
+            "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36723
-          }
+            "stars": 36732
+          },
+          "first_seen": "2026-08-28T06:10:57.792Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:05.855Z",
+    "last_updated": "2026-08-28T06:10:57.792Z",
     "original_repository_info": {
       "archived": false,
       "id": 602344007,
