@@ -94,7 +94,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with the Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.
 
-* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,366 | 🐛 197 | 🌐 Go | 📅 2026-08-28 - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs) ⭐ 45 | 🐛 14 | 🌐 Go | 📅 2026-08-17.
+* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,367 | 🐛 197 | 🌐 Go | 📅 2026-08-28 - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs) ⭐ 45 | 🐛 14 | 🌐 Go | 📅 2026-08-17.
 * [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform. **Do you want Ceph CSI support? [Upvote this issue](https://github.com/ceph/ceph-csi/issues/3769) ⭐ 1,569 | 🐛 149 | 🌐 Go | 📅 2026-08-27**
 * [NetApp Trident](https://github.com/NetApp/trident) ⭐ 876 | 🐛 274 | 🌐 Go | 📅 2026-08-27 - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804) ⭐ 876 | 🐛 274 | 🌐 Go | 📅 2026-08-27.
 * [Hetzner Cloud Volume CSI Driver](https://github.com/hetznercloud/csi-driver) ⭐ 795 | 🐛 22 | 🌐 Go | 📅 2026-08-26 - Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.

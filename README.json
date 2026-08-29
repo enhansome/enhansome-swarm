@@ -656,7 +656,7 @@
                 "open_issues": 197,
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "bigdata",
                   "cloud-native",
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:43.274Z",
+    "last_updated": "2026-08-29T04:40:29.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
