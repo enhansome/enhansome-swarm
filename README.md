@@ -42,7 +42,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 ## Official Main Resources
 
-* [Docker Compose V3 File Format Docs](https://github.com/docker/compose/blob/v1/docs/Compose%20file%20reference%20\(legacy\)/version-3.md) ⭐ 38,080 | 🐛 110 | 🌐 Go | 📅 2026-08-28 - Documentation for the Docker Compose V3 format that the `docker stack` command uses.
+* [Docker Compose V3 File Format Docs](https://github.com/docker/compose/blob/v1/docs/Compose%20file%20reference%20\(legacy\)/version-3.md) ⭐ 38,101 | 🐛 108 | 🌐 Go | 📅 2026-08-31 - Documentation for the Docker Compose V3 format that the `docker stack` command uses.
 * [SwarmKit Repository](https://github.com/moby/swarmkit) ⭐ 3,648 | 🐛 276 | 🌐 Go | 📅 2026-08-28 - The upstream project that provides Swarm features to a container runtime.
 * [Docker Swarm Docs](https://docs.docker.com/engine/swarm/)
 * [Mirantis Swarm Homepage](https://www.mirantis.com/software/swarm/)
@@ -65,9 +65,9 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 * [Mohsenasm Swarm Dashboard](https://github.com/mohsenasm/swarm-dashboard) ⭐ 239 | 🐛 11 | 🌐 Elm | 📅 2026-06-05 - A Simple Monitoring Dashboard for Docker Swarm Cluster.
 * [Swarmsible](https://github.com/neuroforgede/swarmsible) ⭐ 77 | 🐛 8 | 🌐 Shell | 📅 2025-02-19 - Tooling to create and manage Docker Swarm clusters based on Ansible.
 * [swarmgate](https://github.com/neuroforgede/swarmgate) ⭐ 68 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-19 - Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.
-* [Heckenmann Swarm Dashboard](https://github.com/heckenmann/docker-swarm-dashboard) ⭐ 50 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-28 - A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.
+* [Heckenmann Swarm Dashboard](https://github.com/heckenmann/docker-swarm-dashboard) ⭐ 50 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-31 - A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.
 * [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws) ⭐ 47 | 🐛 4 | 🌐 HCL | 📅 2025-10-23
-* [swarmcli](https://github.com/Eldara-Tech/swarmcli) ⭐ 20 | 🐛 15 | 🌐 Go | 📅 2026-08-30 - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
+* [swarmcli](https://github.com/Eldara-Tech/swarmcli) ⭐ 20 | 🐛 15 | 🌐 Go | 📅 2026-08-31 - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
 * [MongoDB ReplicaSet Manager](https://github.com/BitWise-0x/MongoDB-ReplicaSet-Manager) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-04-27 - Automated deployment and management of MongoDB replica sets in Docker Swarm with intelligent failover and dynamic scaling.
 * [Portainer](https://www.portainer.io/) - A management UI that allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
 * [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
@@ -77,7 +77,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 ### Extra Functionality
 
-* [doco-cd](https://github.com/kimdre/doco-cd) ⭐ 1,644 | 🐛 12 | 🌐 Go | 📅 2026-08-30 - Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.
+* [doco-cd](https://github.com/kimdre/doco-cd) ⭐ 1,645 | 🐛 12 | 🌐 Go | 📅 2026-08-31 - Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.
 * [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) ⭐ 882 | 🐛 37 | 🌐 Go | 📅 2026-08-20 - By [@crazy-max](https://github.com/crazy-max). Create jobs on a time-based schedule.
 * [Shepherd](https://github.com/djmaze/shepherd) ⭐ 593 | 🐛 13 | 🌐 Shell | 📅 2025-11-11 - Automatically update services whenever their image is refreshed.
 * [SwarmCD](https://github.com/m-adawi/swarm-cd) ⭐ 188 | 🐛 41 | 🌐 Go | 📅 2026-05-20 - Declarative GitOps and Continuous Deployment tool for Swarm.
@@ -94,11 +94,11 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with the Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.
 
-* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,374 | 🐛 199 | 🌐 Go | 📅 2026-08-28 - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs) ⭐ 45 | 🐛 14 | 🌐 Go | 📅 2026-08-17.
-* [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform. **Do you want Ceph CSI support? [Upvote this issue](https://github.com/ceph/ceph-csi/issues/3769) ⭐ 1,569 | 🐛 150 | 🌐 Go | 📅 2026-08-27**
-* [NetApp Trident](https://github.com/NetApp/trident) ⭐ 876 | 🐛 274 | 🌐 Go | 📅 2026-08-27 - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804) ⭐ 876 | 🐛 274 | 🌐 Go | 📅 2026-08-27.
-* [Hetzner Cloud Volume CSI Driver](https://github.com/hetznercloud/csi-driver) ⭐ 795 | 🐛 23 | 🌐 Go | 📅 2026-08-30 - Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.
-* [Hetzner Cloud Docker Volume Plugin](https://github.com/costela/docker-volume-hetzner) ⭐ 119 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by [@costela](https://github.com/costela).
+* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,379 | 🐛 198 | 🌐 Go | 📅 2026-08-31 - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs) ⭐ 45 | 🐛 14 | 🌐 Go | 📅 2026-08-17.
+* [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform. **Do you want Ceph CSI support? [Upvote this issue](https://github.com/ceph/ceph-csi/issues/3769) ⭐ 1,571 | 🐛 150 | 🌐 Go | 📅 2026-08-31**
+* [NetApp Trident](https://github.com/NetApp/trident) ⭐ 876 | 🐛 277 | 🌐 Go | 📅 2026-08-27 - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804) ⭐ 876 | 🐛 277 | 🌐 Go | 📅 2026-08-27.
+* [Hetzner Cloud Volume CSI Driver](https://github.com/hetznercloud/csi-driver) ⭐ 795 | 🐛 22 | 🌐 Go | 📅 2026-08-31 - Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.
+* [Hetzner Cloud Docker Volume Plugin](https://github.com/costela/docker-volume-hetzner) ⭐ 119 | 🐛 8 | 🌐 Go | 📅 2026-08-31 - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by [@costela](https://github.com/costela).
 * [Docker Volume plugin for RBD (Ceph)](https://github.com/wetopi/docker-volume-rbd) ⭐ 95 | 🐛 9 | 🌐 Go | 📅 2024-02-28 - Docker Engine managed plugin to for RBD Ceph volumes.
 * [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) ⭐ 81 | 🐛 11 | 🌐 Shell | 📅 2025-04-01 - A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
 * [GlusterFS](https://www.gluster.org/) - GlusterFS is a scale-out network-attached storage file system.
@@ -106,8 +106,8 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 ### Networking
 
-* [Traefik Proxy](https://github.com/traefik/traefik) ⭐ 64,669 | 🐛 914 | 🌐 Go | 📅 2026-08-30 - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
-* [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,636 | 🐛 49 | 🌐 Go | 📅 2026-08-20 - Caddy based reverse proxy with automatic service discovery based on labels.
+* [Traefik Proxy](https://github.com/traefik/traefik) ⭐ 64,688 | 🐛 908 | 🌐 Go | 📅 2026-08-31 - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
+* [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,637 | 🐛 49 | 🌐 Go | 📅 2026-08-20 - Caddy based reverse proxy with automatic service discovery based on labels.
 * [Libnetwork Troubleshooting](https://github.com/moby/libnetwork/blob/master/cmd/diagnostic/README.md) ⭐ 2,206 | 🐛 207 | 🌐 Go | 📅 2023-10-20 - Official Doc on using network diagnostic tools.
 * [rawdns](https://github.com/tianon/rawdns) ⭐ 214 | 🐛 8 | 🌐 Go | 📅 2026-06-06 - a direct, raw DNS interface to the Docker API.
 * [envoy-swarm-control-plane](https://github.com/nstapelbroek/envoy-swarm-control-plane) ⭐ 39 | 🐛 6 | 🌐 Go | 📅 2026-07-27 - Software that helps Envoy route internet traffic towards your microservices running on Docker Swarm.
@@ -129,7 +129,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 ### Articles and Sample Code
 
-* [dogvs.cat Sample Swarm Stacks](https://github.com/BretFisher/dogvscat) ⭐ 526 | 🐛 10 | 🌐 HCL | 📅 2023-01-07 - Sample Docker Swarm cluster stack of tools including Traefik.
+* [dogvs.cat Sample Swarm Stacks](https://github.com/BretFisher/dogvscat) ⭐ 525 | 🐛 10 | 🌐 HCL | 📅 2023-01-07 - Sample Docker Swarm cluster stack of tools including Traefik.
 * [Swarm vs. Compose for Production](https://github.com/BretFisher/ama/discussions/146) ⭐ 362 | 🐛 0 | 📅 2021-08-23 - Only one host for a production environment. What to use: docker-compose or single node swarm?
 * [Podlike](https://github.com/rycus86/podlike) ⭐ 87 | 🐛 8 | 🌐 Go | 📅 2023-05-11 - Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.
 * [Docker Swarm Rocks](https://dockerswarm.rocks/) - Collection of tutorials and code samples.
@@ -147,8 +147,8 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 While this list is focused on Docker Swarm resources, general resources such as ones for Docker or Docker Compose can be helpful. The following keeps track of related awesome lists focused on this.
 
-* [awesome-compose](https://github.com/docker/awesome-compose) ⭐ 46,202 | 🐛 417 | 🌐 HTML | 📅 2026-08-25 - A list of awesome Docker Compose samples.
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,749 | 🐛 27 | 📅 2026-08-27 - A list of awesome Docker tools.
+* [awesome-compose](https://github.com/docker/awesome-compose) ⭐ 46,208 | 🐛 417 | 🌐 HTML | 📅 2026-08-25 - A list of awesome Docker Compose samples.
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,754 | 🐛 27 | 📅 2026-08-27 - A list of awesome Docker tools.
 
 ## RIP
 
@@ -168,4 +168,4 @@ We're looking for more maintainers. Make some PRs to help, then LMK in Discussio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
