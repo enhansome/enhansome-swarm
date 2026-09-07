@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T09:08:06Z",
-            "open_issues": 116,
+            "open_issues": 118,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38117,
+            "stars": 38121,
             "topics": [
               "docker",
               "docker-compose",
@@ -329,8 +329,8 @@
                 "id": 830615327,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T15:56:26Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-06T22:38:47Z",
+                "open_issues": 11,
                 "owner": "kimdre",
                 "repo": "doco-cd",
                 "stars": 1648,
@@ -656,7 +656,7 @@
                 "open_issues": 216,
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14396,
+                "stars": 14398,
                 "topics": [
                   "bigdata",
                   "cloud-native",
@@ -687,7 +687,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T17:24:47Z",
-                "open_issues": 155,
+                "open_issues": 154,
                 "owner": "ceph",
                 "repo": "ceph-csi",
                 "stars": 1574,
@@ -736,8 +736,8 @@
                 "id": 162441106,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T09:56:58Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-06T00:32:49Z",
+                "open_issues": 23,
                 "owner": "hetznercloud",
                 "repo": "csi-driver",
                 "stars": 795,
@@ -844,10 +844,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:20:07Z",
-                "open_issues": 905,
+                "open_issues": 908,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64752,
+                "stars": 64764,
                 "topics": [
                   "consul",
                   "docker",
@@ -883,7 +883,7 @@
                 "open_issues": 49,
                 "owner": "lucaslorentz",
                 "repo": "caddy-docker-proxy",
-                "stars": 4638,
+                "stars": 4639,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:57.792Z"
@@ -1141,7 +1141,7 @@
             "open_issues": 423,
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46237,
+            "stars": 46248,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
             "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36785,
+            "stars": 36792,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:59:34.927Z",
+    "last_updated": "2026-09-07T00:03:21.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
@@ -1207,7 +1207,7 @@
       "open_issues": 7,
       "owner": "BretFisher",
       "repo": "awesome-swarm",
-      "stars": 747,
+      "stars": 748,
       "topics": [
         "awesome",
         "awesome-list",
