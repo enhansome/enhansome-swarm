@@ -226,7 +226,7 @@
             {
               "node_type": "item",
               "title": "AWS Docker Swarm Terraform Module",
-              "description": null,
+              "description": "trajano/terraform-docker-swarm-aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,8 +329,8 @@
                 "id": 830615327,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:25:09Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-03T05:04:38Z",
+                "open_issues": 20,
                 "owner": "kimdre",
                 "repo": "doco-cd",
                 "stars": 1689,
@@ -687,7 +687,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T15:43:36Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "ceph",
                 "repo": "ceph-csi",
                 "stars": 1578,
@@ -847,7 +847,7 @@
                 "open_issues": 931,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 65049,
+                "stars": 65052,
                 "topics": [
                   "consul",
                   "docker",
@@ -1141,7 +1141,7 @@
             "open_issues": 430,
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46453,
+            "stars": 46455,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36945,
+            "stars": 36949,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:14:27.831Z",
+    "last_updated": "2026-10-03T05:07:41.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
