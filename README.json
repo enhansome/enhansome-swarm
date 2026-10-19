@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38383,
+            "stars": 38398,
             "topics": [
               "docker",
               "docker-compose",
@@ -262,7 +262,7 @@
                 "id": 976664437,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T12:36:35Z",
+                "last_commit": "2026-10-18T14:30:21Z",
                 "open_issues": 17,
                 "owner": "Eldara-Tech",
                 "repo": "swarmcli",
@@ -333,7 +333,7 @@
                 "open_issues": 16,
                 "owner": "kimdre",
                 "repo": "doco-cd",
-                "stars": 1721,
+                "stars": 1732,
                 "topics": [
                   "continuous-delivery",
                   "continuous-deployment",
@@ -653,10 +653,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T06:19:47Z",
-                "open_issues": 248,
+                "open_issues": 249,
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14548,
+                "stars": 14549,
                 "topics": [
                   "bigdata",
                   "cloud-native",
@@ -690,7 +690,7 @@
                 "open_issues": 132,
                 "owner": "ceph",
                 "repo": "ceph-csi",
-                "stars": 1579,
+                "stars": 1578,
                 "topics": [
                   "ceph",
                   "cephfs",
@@ -844,10 +844,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-15T14:29:07Z",
-                "open_issues": 947,
+                "open_issues": 948,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 65266,
+                "stars": 65273,
                 "topics": [
                   "consul",
                   "docker",
@@ -1141,7 +1141,7 @@
             "open_issues": 434,
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46546,
+            "stars": 46554,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
             "open_issues": 58,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37058,
+            "stars": 37066,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:06:17.386Z",
+    "last_updated": "2026-10-19T00:14:56.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
