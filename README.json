@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:02:49Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38642,
+            "stars": 38657,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 159,
             "owner": "moby",
             "repo": "swarmkit",
-            "stars": 3653,
+            "stars": 3655,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:57.792Z"
@@ -290,7 +290,7 @@
                 "id": 726693807,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-27T18:20:45Z",
+                "last_commit": "2026-11-08T13:26:51Z",
                 "open_issues": 0,
                 "owner": "BitWise-0x",
                 "repo": "MongoDB-ReplicaSet-Manager",
@@ -329,8 +329,8 @@
                 "id": 830615327,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T22:32:38Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T01:13:52Z",
+                "open_issues": 16,
                 "owner": "kimdre",
                 "repo": "doco-cd",
                 "stars": 1768,
@@ -656,7 +656,7 @@
                 "open_issues": 243,
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14700,
+                "stars": 14710,
                 "topics": [
                   "bigdata",
                   "cloud-native",
@@ -687,7 +687,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T13:41:05Z",
-                "open_issues": 138,
+                "open_issues": 136,
                 "owner": "ceph",
                 "repo": "ceph-csi",
                 "stars": 1582,
@@ -736,8 +736,8 @@
                 "id": 162441106,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-05T15:44:29Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-08T13:35:04Z",
+                "open_issues": 22,
                 "owner": "hetznercloud",
                 "repo": "csi-driver",
                 "stars": 801,
@@ -844,10 +844,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-06T15:58:06Z",
-                "open_issues": 974,
+                "open_issues": 978,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 65491,
+                "stars": 65495,
                 "topics": [
                   "consul",
                   "docker",
@@ -883,7 +883,7 @@
                 "open_issues": 47,
                 "owner": "lucaslorentz",
                 "repo": "caddy-docker-proxy",
-                "stars": 4756,
+                "stars": 4759,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:57.792Z"
@@ -1141,7 +1141,7 @@
             "open_issues": 440,
             "owner": "docker",
             "repo": "awesome-compose",
-            "stars": 46658,
+            "stars": 46664,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
             "open_issues": 75,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37190,
+            "stars": 37197,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:30:31.198Z",
+    "last_updated": "2026-11-09T01:46:12.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
